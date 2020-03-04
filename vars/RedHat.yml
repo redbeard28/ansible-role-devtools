@@ -1,0 +1,4 @@
+---
+packages_name:
+  - "@development-tools"
+  - openssl-devel
